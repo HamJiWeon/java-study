@@ -2,7 +2,7 @@ package exception.ex1;
 
 import java.util.Scanner;
 
-public class MainV2 {
+public class MainV1_1 {
 
     public static void main(String[] args) {
         NetworkServiceV1_2 networkService = new NetworkServiceV1_2();
